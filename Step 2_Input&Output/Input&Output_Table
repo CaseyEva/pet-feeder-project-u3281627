@@ -1,0 +1,12 @@
+Input	/ Output / Parameters
+- Clock (real-time), Dispense food at scheduled time, Out of food.
+
+- Sensor for bowl, Level of food in bowl, May be blocked by food
+
+- Scale under bowl, How much food is being eaten, Animals may step on scale.
+
+- Food not dispensed, Alarm activates - alert staff, Alert not sent
+
+- Food not eaten after 10 minutes, Alarm activates - alert staff, Alert not sent
+
+- Timer, 10-minute alert, Timing off
