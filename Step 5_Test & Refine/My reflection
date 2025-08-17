@@ -1,0 +1,9 @@
+-	Pet eats as expected = system records amount
+-	Pet does not eat = alarm is activated, staff are notified
+-	Food bin is empty = Food will not be dispensed, alarm is activated, and staff are notified
+
+For most mistakes the expected outcome is the alarm, if something goes wrong with the alarm software there’s no backup alert.
+
+A lot of the data is also taken from the sensors; this can be effective but with animals actively interacting with them several things could alter their performance.
+
+A suggested improvement would be a camera with sensors directed at the pet’s bowl. With this alteration you can also see any unusual eating patterns and gain more insight into why the pet hasn’t finished eating, etc.
