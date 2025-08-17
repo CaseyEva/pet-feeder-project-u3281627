@@ -1,0 +1,16 @@
+This problem requires a low cost pet-feeder with a few different features:
+-	A system that can remember time
+-	A system that can schedule feeding times
+-	A dispenser for the food
+-	A sensor to recognise if there is still food after being dispensed
+-	A sensor that counts the amount of food that has been dispensed and compares it to the amount being eaten
+-	An alarm system
+
+We assume that:
+-	Feeding times have been assigned
+-	Food is being weighed
+-	There’s a database
+
+Limits may be:
+-	The amount of memory the system has.
+-	Animals may accidently tamper with the sensors or scale leading to false alarm activation and weights being recorded.
