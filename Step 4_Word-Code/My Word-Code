@@ -1,0 +1,4 @@
+1.	If it is 6am or 7pm food is dispensed into the pet’s bowl.
+2.	If food was not dispensed due to an issue, the alarm is activated, and staff are alerted.
+3.	10 minutes after the food was successfully dispensed if the sensor can detect food is still in the pet’s bowl (the pet has not eaten) the alarm is activated, and staff are alerted.
+4.	Throughout the day/ process the amount of food dispensed and in turn eaten is recorded by the system and provided to staff.
